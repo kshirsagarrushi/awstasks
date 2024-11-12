@@ -20,7 +20,9 @@
 
     <dependencies>
 
-         <!-- AWS SDK for DynamoDB -->
+
+
+        <!-- AWS SDK for DynamoDB -->
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-dynamodb</artifactId>
@@ -64,6 +66,9 @@
             <artifactId>aws-lambda-java-events</artifactId>
             <version>3.11.5</version>
         </dependency>
+
+
+
         <!-- AWS dependencies-->
         <dependency>
             <groupId>com.amazonaws</groupId>
